@@ -1,0 +1,12 @@
+@import url(header.css);
+@import url(mainPage.css);
+
+:root {
+  --red: rgb(225, 10, 10);
+  --white: #ffffff;
+}
+
+body {
+  margin: 0;
+  background-color: gray;
+}

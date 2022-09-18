@@ -1,0 +1,9 @@
+.section__mainpage {
+  display: flex;
+}
+
+.section__mainpage aside {
+  width: 250px;
+  height: 100%;
+  background-color: blue;
+}
