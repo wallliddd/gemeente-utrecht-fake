@@ -64,12 +64,11 @@ footer {
 .footer__logo {
   width: 60px;
 }
-/* #ff6666 */
 
 .icon__holder {
   height: 35px;
   width: 35px;
-  background-color: #ff6666;
+  background-color: var(--lightRed);
   border-radius: 100%;
   display: flex;
   justify-content: center;
