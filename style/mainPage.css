@@ -1,5 +1,6 @@
 .section__mainpage {
   display: flex;
+  height: 80vh;
 }
 
 .section__mainpage aside {
