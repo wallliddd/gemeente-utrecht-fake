@@ -1,0 +1,59 @@
+.section__mainpage aside {
+  margin-top: 1px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  background-color: var(--white);
+}
+
+.filter__container {
+  padding: 20px;
+}
+
+.competence__container {
+  padding: 5px;
+  border: 1px solid var(--lightGrey);
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  margin-bottom: 20px;
+  height: 200px;
+  overflow-y: scroll;
+}
+
+.branch__container {
+  padding: 5px;
+  border: 1px solid var(--lightGrey);
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  margin-bottom: 20px;
+  overflow-y: scroll;
+  height: 200px;
+}
+
+.filter__container input[type="radio"] {
+  box-sizing: border-box;
+  appearance: none;
+  background: var(--white);
+  outline: 1px solid var(--lightGrey);
+  border: 1px solid var(--white);
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
+  margin-top: 10px;
+}
+
+.experinience-slider {
+  background-color: red;
+  color: green;
+}
+
+.experience__container {
+  padding: 5px;
+  border: 1px solid var(--lightGrey);
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  margin-bottom: 20px;
+  overflow-y: scroll;
+}
